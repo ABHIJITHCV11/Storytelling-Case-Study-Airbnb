@@ -72,14 +72,14 @@ These are the key findings to enhance our understanding of property and host acq
 <kbd>  ![](images/every_hosts_matter.PNG)  </kbd>
 <kbd>  ![](images/neighbourhoods.PNG)  </kbd>
 
-## RECOMMENDATIONS
+## recommendations
 
 - Shared rooms need to be inspected upon.
 - The cumulative contribution of all hosts is better than a few hosts doing well.
 - More than 80 % of the listing areManhattan and Brooklyn neighborhood group.
 - Minimum nights threshold should be on the lower side to make propertiesmore customer-oriented.
 
-## CONCLUSION
+## conclusion
 - Strong significant insights are derived based on various attributes in the dataset.
 - Ample amount and variety of visuals have can used in the presentations for the stake-holders.
 - Data collection team should collect data about review scores so that it can strengthen the later analysis.
