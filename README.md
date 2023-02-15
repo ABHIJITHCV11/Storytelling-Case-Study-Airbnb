@@ -19,4 +19,5 @@ prepare for the next best steps that Airbnb needs to take as a business, you hav
 
 ## Data
 This dataset contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
+<kbd>  ![](images/data_dic.PNG)  </kbd>
 
