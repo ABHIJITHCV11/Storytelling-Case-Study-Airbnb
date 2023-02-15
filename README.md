@@ -30,7 +30,7 @@ prepare for the next best steps that Airbnb needs to take as a business, you hav
 [Tableau Dashboard](https://public.tableau.com/app/profile/abhijith.cv/viz/UNVEILINGTHESECRETSOFAIRBNBINNYCADATA-DRIVENSTORY/Dashboard1?publish=yes)
 
 An interactive dashboard is made to provide users with a dynamic and flexible way to explore and analyze data. This allows users to interact with data in real-time and customize the display of information to suit their needs.
-<kbd>  ![](images/dash.PNG)  </kbd>
+<kbd>  ![](images/dash1.PNG)  </kbd>
 
 ## Data
 This [dataset](AB_NYC_2019.csv) contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
