@@ -19,5 +19,53 @@ prepare for the next best steps that Airbnb needs to take as a business, you hav
 
 ## Data
 This dataset contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
+
 <kbd>  ![](images/data_dic.PNG)  </kbd>
+ 
+## Analysis (steps)
+### 1. Importing libraries and reading the data
+### 2. Creating features
+#### 2.1 categorizing the "availability_365" column into 5 categories
+#### 2.2 categorizing the "minimum_nights" column into 5 categories
+#### 2.3 categorizing the "number_of_reviews" column into 5 categories
+#### 2.4 categorizing the "price" column into 5 categories
+### 3. Fixing columns
+### 4. Data types
+#### 4.1 Categorical
+#### 4.2 Numerical
+#### 4.3 Coordinates and date
+### 5. Missing values
+#### 5.1 Missing values Analysis
+#### 5.2 Missing values Analysis ('neighbourhood_group' feature)
+#### 5.3 Missing values Analysis ('room_type' feature)
+### 6. Univariate Analysis
+#### 6.1 name
+#### 6.2 host_id
+#### 6.3 host_name
+#### 6.4 neighbourhood_group
+#### 6.5 neighbourhood
+#### 6.6 room_type
+#### 6.7 price
+#### 6.8 minimum_nights
+#### 6.9 number_of_reviews
+#### 6.10 reviews_per_month
+#### 6.11 calculated_host_listings_count
+#### 6.12 availability_365
+#### 6.13 minimum_night_categories
+#### 6.14 number_of_reviews_categories
+#### 6.15 price_categories
+### 7. Bivariate and Multivariate Analysis
+#### 7.1 Finding the correalations
+#### 7.2 Finding Top meaningful correlations
+#### 7.3 number_of_reviews_categories and prices
+#### 7.4 ('room_type' and 'number_of_reviews_categories')
+#### 7.5 'room_type' and 'price_categories'
+#### 7.6 'room_type' and 'reviews_per_month'
+#### 7.7 minimum_night_categories and reviews_per_month
+#### 7.8 'availability_365_categories', 'price_categories' and 'reviews_per_month'
+
+## Key findings
+These are the key findings to enhance our understanding of property and host acquisitions,operations, and customer preferences.
+
+
 
