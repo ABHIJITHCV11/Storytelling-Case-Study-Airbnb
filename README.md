@@ -30,7 +30,8 @@ This [dataset](AB_NYC_2019.csv) contains information about different Airbnb list
 <kbd>  ![](images/data_dic.PNG)  </kbd>
 
 The [AB_NYC_2019_processed](AB_NYC_2019_processed.csv) dataset contains the cleaned,processed data with derived features.
- 
+<kbd>  ![](images/datat.PNG)  </kbd> 
+
 ## Analysis (steps)
 ### 1. Importing libraries and reading the data
 ### 2. Creating features
