@@ -67,10 +67,9 @@ This dataset contains information about different Airbnb listings along with the
 ## Key findings
 These are the key findings to enhance our understanding of property and host acquisitions,operations, and customer preferences.
 
-<kbd>  ![](images/data_dic.PNG)  </kbd>
-<kbd>  ![](effects.PNG)  </kbd>
-<kbd>  ![](every_hosts_matter.PNG)  </kbd>
-<kbd>  ![](neighbourhoods.PNG)  </kbd>
-<kbd>  ![](shared_rooms.PNG)  </kbd>
+<kbd>  ![](images/effects.PNG)  </kbd>
+<kbd>  ![](images/every_hosts_matter.PNG)  </kbd>
+<kbd>  ![](images/neighbourhoods.PNG)  </kbd>
+<kbd>  ![](images/shared_rooms.PNG)  </kbd>
 
 
