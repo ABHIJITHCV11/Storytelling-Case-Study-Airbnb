@@ -37,6 +37,14 @@ This presentation is for,
 An interactive dashboard is made to provide users with a dynamic and flexible way to explore and analyze data. This allows users to interact with data in real-time and customize the display of information to suit their needs.
 <kbd>  ![](images/dash1.PNG)  </kbd>
 
+## Key findings
+These are the key findings to enhance our understanding of property and host acquisitions,operations, and customer preferences.
+
+<kbd>  ![](images/shared_rooms.PNG)  </kbd>
+<kbd>  ![](images/effects.PNG)  </kbd>
+<kbd>  ![](images/every_hosts_matter.PNG)  </kbd>
+<kbd>  ![](images/neighbourhoods.PNG)  </kbd>
+
 ## Data
 This [dataset](AB_NYC_2019.csv) contains information about different Airbnb listings along with their hosts, locations, prices and other attributes.
 
@@ -86,14 +94,6 @@ The [AB_NYC_2019_processed](AB_NYC_2019_processed.csv) dataset contains the clea
 #### 7.6 'room_type' and 'reviews_per_month'
 #### 7.7 minimum_night_categories and reviews_per_month
 #### 7.8 'availability_365_categories', 'price_categories' and 'reviews_per_month'
-
-## Key findings
-These are the key findings to enhance our understanding of property and host acquisitions,operations, and customer preferences.
-
-<kbd>  ![](images/shared_rooms.PNG)  </kbd>
-<kbd>  ![](images/effects.PNG)  </kbd>
-<kbd>  ![](images/every_hosts_matter.PNG)  </kbd>
-<kbd>  ![](images/neighbourhoods.PNG)  </kbd>
 
 ## Recommendations
 
