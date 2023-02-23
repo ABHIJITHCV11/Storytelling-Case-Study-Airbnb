@@ -17,6 +17,8 @@ teams
 prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, give two presentations to the following groups.
 
 ## Presentation - I
+<kbd>  ![](images/p1.PNG)  </kbd>
+
 [PPT-I.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-I.pdf)
 
 This presentation is for,
@@ -24,6 +26,8 @@ This presentation is for,
 - Lead Data Analyst: The lead data analyst looks after the entire team of data and business analysts and is technically sound.
 
 ## Presentation - II
+<kbd>  ![](images/p2.PNG)  </kbd>
+
 [PPT-II.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-2.pdf)
 
 This presentation is for,
